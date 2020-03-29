@@ -7,3 +7,5 @@ Things that I learn:
 - CSS variable
 - CSS position
 - CSS transform
+- CSS grid system
+- CSS flexbox
