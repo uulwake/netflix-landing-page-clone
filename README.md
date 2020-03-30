@@ -9,3 +9,4 @@ Things that I learn:
 - CSS transform
 - CSS grid system
 - CSS flexbox
+- CSS Media Query
